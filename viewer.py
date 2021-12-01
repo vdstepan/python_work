@@ -10,8 +10,8 @@ currentDir = os.getcwd()
 currentDir = currentDir[:-6]
 currentDir = currentDir.rstrip(os.path.sep)
 
-# print(currentDir)
-# print("--------------")
+print(currentDir)
+print("--------------")
 
 
 # получаем список файлов и каталогов
